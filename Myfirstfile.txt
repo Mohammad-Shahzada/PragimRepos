@@ -5,3 +5,4 @@ changes made to understand .git
 
 
 Modified in main branch to test git merge from git
+Hello all, have a nice day
