@@ -2,3 +2,4 @@ changes made by developer2.
 Now changes done by developer1.
 changes made to understand .git
 Modified in branch cdt1
+understanding merge request
